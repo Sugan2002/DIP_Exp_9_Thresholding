@@ -29,6 +29,9 @@ Display the results.
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
 ## PROGRAM:
 ```python
@@ -102,7 +105,23 @@ for i in range(0,9):
 
 ![o6](https://user-images.githubusercontent.com/77089743/169637701-40b75751-1e1b-4d1e-92e9-6a639be2fb22.PNG)
 
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ### Adaptive Thresholding
@@ -113,6 +132,21 @@ for i in range(0,9):
 
 ![o9](https://user-images.githubusercontent.com/77089743/169637767-cd0b64f0-5085-4678-a8e0-3f61b1e791e3.PNG)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### Optimum Global Thesholding using Otsu's Method
 
