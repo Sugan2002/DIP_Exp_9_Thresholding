@@ -1,4 +1,7 @@
-# Thresholding
+## EX NO : 09
+## Date : 
+# <p align="center"> Thresholding </P>
+ 
 ## AIM:
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -76,15 +79,7 @@ for i in range(0,9):
     plt.show()
 ```
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 
 ## OUTPUT:
